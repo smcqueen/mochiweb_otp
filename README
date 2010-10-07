@@ -1,1 +1,3 @@
-This project contains mochiweb_otp and mochiweb itself. Mochiweb is essentially untouched with the exception of an added .app file to bring it into OTP compliance. 
+This project contains mochiweb_otp and mochiweb itself. Mochiweb is essentially untouched with the exception of an added .app file to bring it into OTP compliance.
+
+Stan McQueen: I have replaced the actual lib/mochiweb/ directory with a link to /projects/mochiweb/. That way, I can update mochiweb from source with less effort. 

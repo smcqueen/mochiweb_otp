@@ -1,0 +1,9 @@
+*.dump
+*~
+_build/development/sig
+_build/development/tar
+_build/development/info
+_build/development/apps
+lib/_mochiweb_orig
+lib/mochiweb/
+test.log
