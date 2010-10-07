@@ -5,5 +5,5 @@ _build/development/tar
 _build/development/info
 _build/development/apps
 lib/_mochiweb_orig
-lib/mochiweb/
+lib/mochiweb
 test.log
